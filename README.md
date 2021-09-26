@@ -279,5 +279,5 @@ The games that I used as reference to write this article:
 
 That's it guys, I hope this information can be useful for you.
 
-If you have questions, feel free to reach me out
+If you have questions, feel free to reach me out.
 [@nyunesu](https://twitter.com/nyunesu) or [nyunesu@gmail.com](mailto:nyunesu@gmail.com)
